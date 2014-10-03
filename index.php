@@ -7,8 +7,24 @@
 
 </head>
 <body>
-	<h3>Pruebas html con css y javascript</h3>  
+	
+	<form action="login.php" method="post">
+	
+		<p>
+		<label for="usuario">Usuario</label>
+		<input type="text">
+		</p>
 
+		<p>
+		<label for="contrasenia">Contraseña</label>
+		<input type="password" >
+		</p>
+
+		<p>
+			<input type="submit" value="Enviar">
+		</p>
+		
+	</form>
 <script src="js/main.js"></script>
 </body>
 </html>
