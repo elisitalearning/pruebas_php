@@ -2,4 +2,20 @@
 body {
 	background-color: #f5f5f5;
 	color: green;
+	font-family: arial;
+	font-size: 12px;
+}
+
+#contenedor {
+	background-color: #fff;
+	color: green;
+	border: 1px solid #ddd;
+	width: 300px;
+	padding: 20px;
+}
+
+.boton_enviar {
+	background-color: green;
+	color: white;
+	border-color: green;
 }

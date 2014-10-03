@@ -1,2 +1,2 @@
 
-alert('prueba javasript');
+// alert('prueba javasript');
